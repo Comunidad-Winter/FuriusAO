@@ -1,0 +1,27 @@
+Nuevo World Editor Modificado Por Loopzer.
+
+Les paso a contar las cosas nuevas que tiene :
+*Grande mejora en parte FPS. El viejo tenia promedo entre 80/100 fps este tiene promedio 200/300 fps.
+
+Nos posicionamos en la pantalla, y tenemos apretado shift y arrastramos el MOUSE hacia algun lado. Como veran , se "SELECCIONARAN" campos del mapa con color rosa xD. Bueno, con esto tenemos varias funciones (siempre con los campos seleccionados)
+*Ctrl + b : Pone bloqueos en los campos seleccionados.
+*Ctrl + c : Copia la superficie seleccionada para despues pegarla con ctrl + v en otra parte del mapa.
+*Ctrl + x : Corta la superficie para pegarla en otra parte o simplemente para borrarla.
+*Ctrl + z : Deshace lo hecho. Ejemplo : si yo corto y pego en un lugar pongo ctrl z y se borra y vuelve al del principio.
+*Ctrl + d : Realiza la acción pendiendte. Ejemplo: Esta seleccionado para poner translados , aprentando ctrl + d pone translados en el campo seleccionado.
+Menu opciones , la opcion de crlt + flechas
+Sepan disculpar, pero el código no será liberado aún porque se esta perfeccionando y agregando cosas para su mejor funcionamiento.
+
+*Nota: Todo testeado y funcional al 100%.
+
+--- --- ---
+
+Adaptación al formato de FénixAO por NaKruL.
+
+Deben colocar los mapas del cliente en la carpeta "cMapas" y los del servidor en la carpeta "sMapas" y en esta última también deben poner el archivo Info.dat (Carpeta "Maps" del servidor).
+
+Pueden abrir el mapa tanto de la carpeta de mapas de cliente como de la carpeta de mapas del servidor, sólo deben cambiar el tipo de archivo a abrri cuando vayan a cargar un mapa (extensión del archivo).
+
+Las demas carpetas "Dats" e "INIT" tratenlas como al World Editor convencional.
+
+*Nota: No testeado, y puede tener errores, pero es una alternativa temporal :).

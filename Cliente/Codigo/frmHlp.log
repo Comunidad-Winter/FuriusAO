@@ -1,0 +1,2 @@
+Línea 19: la propiedad Icon de frmHlp tenía una referencia a archivo no válida.
+Línea 80: la propiedad Caption de lblHlp debe ser una cadena encerrada entre comillas

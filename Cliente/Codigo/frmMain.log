@@ -1,0 +1,6 @@
+Línea 1134: la clase MSWinsockLib.Winsock del control WSAntiSH no era una clase de control cargada.
+Línea 1137: el nombre de la propiedad _ExtentX de WSAntiSH no es válido.
+Línea 1138: el nombre de la propiedad _ExtentY de WSAntiSH no es válido.
+Línea 1139: el nombre de la propiedad _Version de WSAntiSH no es válido.
+Línea 1140: el nombre de la propiedad RemoteHost de WSAntiSH no es válido.
+Línea 1141: el nombre de la propiedad RemotePort de WSAntiSH no es válido.

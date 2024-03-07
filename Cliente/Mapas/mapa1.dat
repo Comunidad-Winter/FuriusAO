@@ -1,0 +1,24 @@
+[MAPA1]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 1
+Pk=1
+Name=Ciudad paraiso
+MusicNum=53
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+[Mapa]
+Name=Nuevo Mapa
+MusicNum=0
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+BackUp= 0
+Pk=0

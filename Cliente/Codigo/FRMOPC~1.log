@@ -1,0 +1,19 @@
+Line 265: Class MSComctlLib.Slider of control Slider2 was not a loaded control class.
+Line 280: Class MSComctlLib.Slider of control Slider1 was not a loaded control class.
+Line 271: The property name _ExtentX in Slider2 is invalid.
+Line 272: The property name _ExtentY in Slider2 is invalid.
+Line 273: The property name _Version in Slider2 is invalid.
+Line 275: The property name Orientation in Slider2 is invalid.
+Line 276: The property name Max in Slider2 is invalid.
+Line 277: The property name TickStyle in Slider2 is invalid.
+Line 278: The property name TickFrequency in Slider2 is invalid.
+Line 286: The property name _ExtentX in Slider1 is invalid.
+Line 287: The property name _ExtentY in Slider1 is invalid.
+Line 288: The property name _Version in Slider1 is invalid.
+Line 290: The property name Orientation in Slider1 is invalid.
+Line 291: The property name LargeChange in Slider1 is invalid.
+Line 292: The property name SmallChange in Slider1 is invalid.
+Line 293: The property name Max in Slider1 is invalid.
+Line 294: The property name TickStyle in Slider1 is invalid.
+Line 295: The property name TickFrequency in Slider1 is invalid.
+Line 296: The property name TextPosition in Slider1 is invalid.

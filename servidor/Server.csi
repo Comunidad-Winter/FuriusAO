@@ -1,0 +1,5 @@
+[History]
+1=#P0#=mb	#P1#=TimerAntiChit_Timer	#P2#=CServidorFuriusAO/frmMain/TimerAntiChit_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230529201406	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=CheckUserLevel	#P2#=CServidorFuriusAO/UsUaRiOs/CheckUserLevel	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230529175922	#P7#=0	#P8#=4	.
+3=#P0#=mb	#P1#=LoadMapDataNew	#P2#=CServidorFuriusAO/ES/LoadMapDataNew	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230508224458	#P7#=0	#P8#=31	.
+4=#P0#=mb	#P1#=ConnectNewUser	#P2#=CServidorFuriusAO/TCP/ConnectNewUser	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230502025020	#P7#=0	#P8#=165	.

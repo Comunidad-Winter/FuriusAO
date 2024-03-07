@@ -1,0 +1,182 @@
+[INIT]
+NumArmas=27
+
+[Arma1] 'Espada generica 
+Dir1=4719 'norte
+Dir2=4721
+Dir3=4718
+Dir4=4720 'sur
+
+[Arma3] 'Hacha larga de guerra
+Dir1=4723 'norte
+Dir2=4725
+Dir3=4722
+Dir4=4724 'sur
+
+'Espada de plata
+[ARMA4]
+Dir1=10269
+Dir2=10271
+Dir3=10268
+Dir4=10270
+
+'Cimitarra
+[ARMA5]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+'Vara de mago
+[ARMA6]
+Dir1=13756
+Dir2=13768
+Dir3=13749
+Dir4=13762
+
+'Arco
+[ARMA7]
+Dir1=10467
+Dir2=10469
+Dir3=10466
+Dir4=10468
+
+'Daga
+[ARMA8]
+Dir1=12900
+Dir2=12902
+Dir3=12899
+Dir4=12901
+
+'DagaRoja
+[ARMA9]
+Dir1=12926
+Dir2=12928
+Dir3=12925
+Dir4=12927
+
+'EspadaAzul
+[ARMA10]
+Dir1=12952
+Dir2=12954
+Dir3=12951
+Dir4=12953
+
+'EspadaAzul 2
+[ARMA11]
+Dir1=12978
+Dir2=12980
+Dir3=12977
+Dir4=12979
+
+'Hacha
+[ARMA12]
+Dir1=13235
+Dir2=13237
+Dir3=13234
+Dir4=13236
+
+'Matadracos
+[ARMA13]
+Dir1=13675
+Dir2=13677
+Dir3=13674
+Dir4=13676
+
+'Arco engarzado
+[ARMA14]
+Dir1=14387
+Dir2=14389
+Dir3=14386
+Dir4=14388
+
+'Vara de Fresno
+[ARMA15]
+Dir1=13756
+Dir2=13768
+Dir3=13749
+Dir4=13762
+
+'Baston Nudoso
+[ARMA16]
+Dir1=13783
+Dir2=13795
+Dir3=13776
+Dir4=13789
+
+'Baculo Sagrado
+[ARMA17]
+Dir1=13810
+Dir2=13822
+Dir3=13803
+Dir4=13816
+
+'Hacha de Bárbaro
+[ARMA18]
+Dir1=13933
+Dir2=13935
+Dir3=13932
+Dir4=13934
+
+'Espada de Bárbaro
+[ARMA19]
+Dir1=4719
+Dir2=4721
+Dir3=4718
+Dir4=4720
+
+'Hacha doble filo
+[Arma20]
+Dir1=13888'2
+Dir2=13900'4
+Dir3=13881'1
+Dir4=13894'3
+
+'Espada de los dioses
+[Arma21]
+Dir1=16252
+Dir2=16254
+Dir3=16251
+Dir4=16253
+
+'Espada index x Ronthor1
+[Arma22]
+Dir1=17440
+Dir2=17442
+Dir3=17439
+Dir4=17441
+
+'Espada index x Ronthor2
+[Arma23]
+Dir1=17494
+Dir2=17496
+Dir3=17493
+Dir4=17495
+
+'Daga + 4
+[Arma24]
+Dir1=18015
+Dir2=18017
+Dir3=18014
+Dir4=18016
+
+'Espada Gris
+[Arma25]
+Dir1=18041
+Dir2=18043
+Dir3=18040
+Dir4=18042
+
+'Espada De nieve
+[Arma26]
+Dir1=18067
+Dir2=18069
+Dir3=18066
+Dir4=18068
+
+'Espada Neithan + 1
+[Arma27]
+Dir1=18824
+Dir2=18826
+Dir3=18823
+Dir4=18825
